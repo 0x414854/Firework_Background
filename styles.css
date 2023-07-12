@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+canvas {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.8), rgba(1, 1, 134, 0.8), rgba(1, 1, 134, 0.6));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
